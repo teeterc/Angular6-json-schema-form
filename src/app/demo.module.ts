@@ -28,7 +28,7 @@ import { DemoRootComponent } from './demo-root.component';
 import { routes } from './demo.routes';
 import {
   MaterialDesignFrameworkModule, Bootstrap4FrameworkModule,
-  Bootstrap3FrameworkModule, NoFrameworkModule
+  Bootstrap3FrameworkModule, NoFrameworkModule, SemanticUIFrameworkModule
 } from 'angular6-json-schema-form';
 
 @NgModule({
@@ -41,6 +41,7 @@ import {
     MaterialDesignFrameworkModule,
     Bootstrap4FrameworkModule,
     Bootstrap3FrameworkModule,
+    SemanticUIFrameworkModule,
     NoFrameworkModule
   ],
   bootstrap: [DemoRootComponent]

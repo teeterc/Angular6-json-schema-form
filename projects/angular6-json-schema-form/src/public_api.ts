@@ -10,5 +10,6 @@ export * from './lib/shared';
 export * from './lib/framework-library/material-design-framework/material-design-framework.module';
 export * from './lib/framework-library/bootstrap-3-framework/bootstrap-3-framework.module';
 export * from './lib/framework-library/bootstrap-4-framework/bootstrap-4-framework.module';
+export * from './lib/framework-library/semantic-ui-framework/semantic-ui-framework.module';
 export * from './lib/framework-library/no-framework/no-framework.module';
 
